@@ -1,3 +1,3 @@
-FROM  amar-m-cloud/Html-site
+FROM  amar-m-cloud/birthday-countdown
 ADD . /var/www/html
 
